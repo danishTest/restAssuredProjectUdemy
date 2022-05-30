@@ -17,8 +17,7 @@ import io.restassured.path.json.JsonPath;
 public class Basics {
 
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
-		// body() accepts String. Here
+		
 
 		RestAssured.baseURI = "https://rahulshettyacademy.com";
 		// here we are trying to convert json file to string and pass it as parameter to
